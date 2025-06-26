@@ -1,4 +1,4 @@
-# GitHub-README-Generator using AI
+![image](https://github.com/user-attachments/assets/caf4074b-bb90-4663-828c-ecf96abef1e0)# GitHub-README-Generator using AI
 
 ![Language](https://img.shields.io/badge/language-TypeScript-blue?style=flat-square)
 ![Framework](https://img.shields.io/badge/framework-React-61DAFB?style=flat-square)
@@ -6,6 +6,8 @@
 ![AI Model](https://img.shields.io/badge/AI%20Model-Google%20Gemini-blueviolet?style=flat-square)
 
 An AI-powered tool to generate professional GitHub README files for your projects. Simply upload your project files and let Google Gemini craft a high-quality, well-structured README.md for you. This application processes your files locally in the browser, ensuring your code remains private.
+
+![LLModel Chat Demo](https://raw.githubusercontent.com/LMLK-seal/GitHub-README-Generator/refs/heads/main/Example.gif)
 
 ✨ Features
 
