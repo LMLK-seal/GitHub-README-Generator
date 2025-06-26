@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/caf4074b-bb90-4663-828c-ecf96abef1e0)# GitHub-README-Generator using AI
+# GitHub-README-Generator using AI
 
 ![Language](https://img.shields.io/badge/language-TypeScript-blue?style=flat-square)
 ![Framework](https://img.shields.io/badge/framework-React-61DAFB?style=flat-square)
