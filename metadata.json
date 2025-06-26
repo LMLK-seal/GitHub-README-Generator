@@ -1,0 +1,5 @@
+{
+  "name": "GitHub README Generator AI",
+  "description": "An AI-powered tool to generate professional GitHub README files for your projects. Simply upload your project files and let Gemini craft a high-quality, well-structured README.md for you.",
+  "requestFramePermissions": []
+}

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>GitHub README Generator AI</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            colors: {
+              'primary': '#F97316', // orange-500
+              'primary-hover': '#EA580C', // orange-600
+              'secondary': '#3F3F46', // zinc-700
+              'background': '#18181B', // zinc-900
+              'surface': '#27272A', // zinc-800
+              'text-primary': '#F4F4F5', // zinc-100
+              'text-secondary': '#A1A1AA', // zinc-400
+              'border-color': '#3F3F46', // zinc-700
+              'bmac-yellow': '#FFDD00',
+              'bmac-yellow-hover': '#FBCB00',
+            },
+          }
+        }
+      }
+    </script>
+  <script type="importmap">
+{
+  "imports": {
+    "react/": "https://esm.sh/react@^19.1.0/",
+    "react": "https://esm.sh/react@^19.1.0",
+    "react-dom/": "https://esm.sh/react-dom@^19.1.0/",
+    "@google/genai": "https://esm.sh/@google/genai@^1.7.0"
+  }
+}
+</script>
+<link rel="stylesheet" href="/index.css">
+</head>
+  <body class="bg-background">
+    <div id="root"></div>
+  <script type="module" src="/index.tsx"></script>
+</body>
+</html>
